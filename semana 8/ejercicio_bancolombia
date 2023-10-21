@@ -1,0 +1,9 @@
+Bancolombia requiere calcular los salarios de su nueva startup pagui
+registrar: id, nombre, apellido, cargo, area, salario
+requiere listar a los empleados
+require calcular el salario neto de cada uno, teniendo presente que si gana < 2SMLV paga auxilio de transporte
+imprimir colilla de pago
+un analista podría ingresar al sistema y buscar su colilla e imprimirla
+un auditor de RH podra visualizar todos los empleados y todas la colillas, además de buscar por empleado
+
+descargar PyCham Community para trabajar con Python
